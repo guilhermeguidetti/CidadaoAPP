@@ -1,2 +1,3 @@
-# app_cidadao-main
+# app_cidadao
  
+Este projeto foi desenvolvido como parte do Projeto Integrador 4 e inicialmente armazenado em um repositório privado. Consiste em um aplicativo destinado ao pagamento da Zona Azul em uma região específica do Brasil. Os cidadãos podem utilizar o aplicativo para consultar os pontos de venda mais próximos ou efetuar o pagamento diretamente pelo aplicativo. Posteriormente, o projeto foi publicado aqui, para maior acessibilidade e disponibilidade.
